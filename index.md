@@ -1,8 +1,8 @@
 ---
-title: 'Matt Lobo'
+title: 'Xiaohan Li'
 layout: single
 author_profile: true
-excerpt: 'Princeton PhD student and physical oceanographer'
+excerpt: 'Princeton postdoc'
 header:
   overlay_image: /images/gulls.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background

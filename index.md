@@ -2,7 +2,7 @@
 title: 'Xiaohan Li'
 layout: single
 author_profile: true
-excerpt: 'Princeton Postdoc & Multi-scale Modeler'
+excerpt: 'Princeton Postdoc & Environmental and Climate Researcher'
 header:
   overlay_image: /images/page_bck.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background

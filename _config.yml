@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" #"dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" #"contrast" #"dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -116,11 +116,8 @@ author:
     - label: "xiaohan.li@noaa.gov"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:xiaohan.li@noaa.gov"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://xiaohanl95.github.io"
     - label: "CV"
-      icon: "fab fa-fw fa-user"
+      icon: "fab fa-fw fa-link"
       url: "https://xiaohanl95.github.io/CV_XL_web.pdf"
 
 # Site Footer

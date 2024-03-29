@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "Research"
-    url: /research/
+   # url: /research/
   - title: "Publication"
-    url: /publication/
+   # url: /publication/
   - title: "Service and Outreach"
-    url: /outreach/
+   # url: /outreach/
    - title: "Research Blog"
-    url: /blog/
+   # url: /blog/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

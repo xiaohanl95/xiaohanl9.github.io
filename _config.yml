@@ -120,8 +120,8 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://xiaohanl95.github.io"
     - label: "CV"
-      icon: "fab fa-fw fa-github"
-      url: ""https://xiaohanl95.github.io/CV_XL_web.pdf""
+      icon: "fab fa-fw fa-user"
+      url: "https://xiaohanl95.github.io/CV_XL_web.pdf"
 
 # Site Footer
 footer:

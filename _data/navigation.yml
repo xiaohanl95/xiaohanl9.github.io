@@ -2,8 +2,8 @@
 main:
    - title: "Service and Outreach"
      url: /outreach/
-#    -title: "Projects"
-#     url:/Projects/
+    -title: "Projects"
+     url:/projects/
 #   - title: "Research"
 #     url: /research/
 #   - title: "Publication"

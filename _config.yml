@@ -111,7 +111,7 @@ author:
   email            : # "xiaohanl@princeton.edu, xiaohan.li@noaa.gov"
   links:
     - label: "xiaohanl@princeton.edu"
-      icon: "fab fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-envelope-square"
       url: "mailto:xiaohanl@princeton.edu"
     - label: "CV"
       icon: "fas fa-fw fa-file-pdf"

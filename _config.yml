@@ -116,6 +116,11 @@ author:
     - label: "CV"
       icon: "fas fa-fw fa-file-pdf"
       url: "https://xiaohanl.github.io/CV_XL_web.pdf"
+    - label: "Google Scholar"
+      icon: "fa-google"
+      url: "https://scholar.google.com/citations?user=cPR5Lq4AAAAJ&hl=en&oi=ao"
+    - label: "About me"
+      url: "https://xiaohanl95.github.io/"
 
 # Site Footer
 footer:

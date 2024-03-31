@@ -1,7 +1,9 @@
 # # main links
 main:
-    -title: "Projects"
-     url:/Projects/
+   - title: "Service and Outreach"
+     url: /outreach/
+#    -title: "Projects"
+#     url:/Projects/
 #   - title: "Research"
 #     url: /research/
 #   - title: "Publication"

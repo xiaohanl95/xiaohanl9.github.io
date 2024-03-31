@@ -117,7 +117,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:xiaohan.li@noaa.gov"
     - label: "CV"
-      icon: "fas fa-fw fa-file-pdf-o"
+      icon: "fas fa-fw fa-file-pdf"
       url: "https://xiaohanl.github.io/CV_XL_web.pdf"
 
 # Site Footer
